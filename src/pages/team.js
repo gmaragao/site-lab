@@ -6,9 +6,7 @@ const TeamPage = () => {
   return (
     <div>
       <Layout>
-        <Card bordered={false}>
-          <TeamCard />
-        </Card>
+        <TeamCard />
       </Layout>
     </div>
   )
