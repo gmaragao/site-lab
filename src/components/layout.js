@@ -24,6 +24,9 @@ const PageLayout = props => {
             <Menu.Item>
               <Link to="/hall">Hall</Link>
             </Menu.Item>
+            <Menu.Item>
+              <Link to="/contact">Contact</Link>
+            </Menu.Item>
           </Menu>
         </Header>
         <Content style={{ padding: "0 50px", marginTop: 10 }}>
@@ -40,7 +43,7 @@ const PageLayout = props => {
             </a>{" "}
             Porto Alegre/RS - Brazil{" "}
           </p>
-          <p>Into the lab, we think outside the box</p>
+          <p>Into the lab, we think outside the box.</p>
         </Footer>
       </Layout>
     </div>
