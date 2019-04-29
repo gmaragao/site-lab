@@ -40,6 +40,7 @@ const PageLayout = props => {
             </a>{" "}
             Porto Alegre/RS - Brazil{" "}
           </p>
+          <p>Into the lab, we think outside the box</p>
         </Footer>
       </Layout>
     </div>
