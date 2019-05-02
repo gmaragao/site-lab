@@ -5,7 +5,7 @@ Lab Ventures site. Built with Gatsby JS + plugins
 ## Getting Started
 
 ```
-Fill .env.development with tokens
+Fill out .env.development with tokens
 
 npm i
 npm start
